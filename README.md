@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nikhil Barot</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil1602&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil1602" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil1602" alt="nikhil1602" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 
 - 👨‍💻 All of my projects are available at [https://nikhil-portfolio-website.herokuapp.com/](https://nikhil-portfolio-website.herokuapp.com/)
 
