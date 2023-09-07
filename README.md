@@ -32,8 +32,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil1602&show_icons=true&locale=en" alt="nikhil1602" />&nbsp;</p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil1602&" alt="nikhil1602" /></p>
-
 
 
 
