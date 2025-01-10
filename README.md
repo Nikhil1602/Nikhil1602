@@ -20,9 +20,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/nikhil-barot-508968223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-barot-508968223" height="30" width="40" /></a>
 <a href="https://instagram.com/nik5257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nik5257" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nikhil1602" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nikhil1602" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@nikhilbarot1602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nikhilbarot1602" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nikhilbarot1602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nikhilbarot1602" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
