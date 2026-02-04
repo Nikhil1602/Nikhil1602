@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 
-- 👨‍💻 All of my projects are available at [here](https://nikhil-portfolio-site.netlify.app/)
+- 👨‍💻 All of my projects are available at [here](https://nikhil-portfolio-site.vercel.app/)
 
 - 📄 Know about my [experiences](https://www.linkedin.com/in/nikhil-barot-508968223/)
 
